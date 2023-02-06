@@ -2,5 +2,8 @@
   "name": "yarn-workspace-45168",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/cli": "^4.6.3"
+  }
 }
