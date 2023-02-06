@@ -2,8 +2,8 @@
     "apps": [
         {
             "appId": "c5e067cd",
-            "root": "apps/app1",
-            "dependencyInstallCommand": "yarn install && cd ../../ && yarn install",
+            "root": "apps/bethere-ionic",
+            "dependencyInstallCommand": "cd ../../ && yarn set version berry && yarn install",
             "webBuildCommand": "yarn build"
         }
     ]
