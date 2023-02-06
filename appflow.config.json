@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "appId": "c5e067cd",
+            "root": "apps/app1",
+            "dependencyInstallCommand": "cd ../../ && yarn install",
+            "webBuildCommand": "yarn build"
+        }
+    ]
+}

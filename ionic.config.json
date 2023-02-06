@@ -1,0 +1,14 @@
+{
+    "defaultProject": "socialApp",
+    "projects": {
+        "socialApp": {
+            "name": "BeThere",
+            "integrations": {
+                "capacitor": {}
+            },
+            "type": "vue",
+            "root": "apps/bethere-ionic",
+            "npmClient": "yarn"
+        }
+    }
+}
